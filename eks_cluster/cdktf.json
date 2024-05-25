@@ -1,0 +1,22 @@
+{
+  "language": "python",
+  "app": "pipenv run python main.py",
+  "projectId": "982d4676-4af3-4221-9163-52dd6beaadac",
+  "sendCrashReports": "false",
+  "terraformProviders": [],
+  "terraformModules": [
+    {
+      "name": "vpc",
+      "source": "terraform-aws-modules/vpc/aws",
+      "version": "5.8.1"
+    },
+    {
+      "name": "eks",
+      "source": "terraform-aws-modules/eks/aws",
+      "version": "~> 20.8"
+    }
+  ],
+  "codeMakerOutput": "imports",
+  "context": {
+  }
+}
