@@ -25,7 +25,7 @@ try them and to play around.
 * [Getting started with the Terraform CDK](https://developer.hashicorp.com/terraform/tutorials/cdktf/cdktf-install)
 * [More examples and guides for CDK](https://developer.hashicorp.com/terraform/cdktf/examples-and-guides/examples)
 
-### Infrastructure architecture
+### Infrastructure reference architecture
 
 * [AWS Architecture Center](https://aws.amazon.com/architecture/)
 * [Google Cloud Architecture Center](https://cloud.google.com/architecture/all-reference-architectures)
@@ -36,3 +36,8 @@ try them and to play around.
 * [terraform-aws-modules](https://registry.terraform.io/namespaces/terraform-aws-modules)
 * [terraform-google-modules](https://registry.terraform.io/namespaces/terraform-google-modules)
 * [azure](https://registry.terraform.io/namespaces/azure)
+
+### Questions?
+
+If you have any questions, please drop us a message at https://hauki.tech/contact.
+We will make sure to address it promptly.
